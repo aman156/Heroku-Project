@@ -30,12 +30,6 @@
             <version>2.0.3</version>
         </dependency>
         <dependency>
-            <groupId>javax.servlet</groupId>
-            <artifactId>javax.servlet-api</artifactId>
-            <version>3.0.1</version>
-            <scope>provided</scope>
-        </dependency>
-        <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-webmvc</artifactId>
             <version>${org.springframework.version}</version>
@@ -50,6 +44,12 @@
             <artifactId>jstl</artifactId>
             <version>1.2</version>
         </dependency>
+	<dependency>
+	    <groupId>commons-digester</groupId>
+	    <artifactId>commons-digester</artifactId>
+	    <version>2.1</version>
+	</dependency>
+	        
         <dependency>
             <groupId>com.force.api</groupId>
             <artifactId>force-rest-api</artifactId>
@@ -63,17 +63,17 @@
         <dependency>
             <groupId>com.force.sdk</groupId>
             <artifactId>force-oauth</artifactId>
-            <version>22.0.8-BETA</version>
+            <version>22.0.9-BETA</version>
         </dependency>
         <dependency>
             <groupId>com.force.sdk</groupId>
             <artifactId>force-springsecurity</artifactId>
-            <version>22.0.8-BETA</version>
+            <version>22.0.9-BETA</version>
         </dependency>
         <dependency>
             <groupId>com.github.jsimone</groupId>
             <artifactId>webapp-runner</artifactId>
-            <version>7.0.22.3</version>
+            <version>8.5.23.0</version>
             <scope>provided</scope>
         </dependency>
     </dependencies>
@@ -94,7 +94,7 @@
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-dependency-plugin</artifactId>
-                <version>2.4</version>
+                <version>3.0.2</version>
                 <executions>
                     <execution>
                         <phase>package</phase>
@@ -106,7 +106,7 @@
                                 <artifactItem>
                                     <groupId>com.github.jsimone</groupId>
                                     <artifactId>webapp-runner</artifactId>
-                                    <version>7.0.22.3</version>
+                                    <version>8.5.23.0</version>
                                     <destFileName>webapp-runner.jar</destFileName>
                                 </artifactItem>
                             </artifactItems>
