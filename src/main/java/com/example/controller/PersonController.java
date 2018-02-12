@@ -36,7 +36,7 @@ public class PersonController {
         return "redirect:/people/";
     }
 
-    @RequestMapping("/delete/{personId}")
+    @RequestMapping("/delete/{personId}") 
     public String deletePerson(@PathVariable("personId") String personId) {
 
         personService.removePerson(personId);
