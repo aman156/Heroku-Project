@@ -1,0 +1,239 @@
+[33mcommit a244c8ab0f6cfe7383669e2a3a3db8641307129c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: US\amansharma <aman.msharma14@gmail.com>
+Date:   Wed Feb 14 16:35:29 2018 +0530
+
+    2nd commit
+
+[33mcommit 7b33361870d978bfedaa7139b23ff94d83b16672[m
+Author: US\amansharma <amansharma@deloitte.com>
+Date:   Tue Feb 13 02:02:19 2018 +0530
+
+    make it better1
+
+[33mcommit 1b738239d835131893c22c69f519e9492e7d2c3d[m
+Author: US\amansharma <amansharma@deloitte.com>
+Date:   Mon Feb 12 20:00:45 2018 +0530
+
+    make it better
+
+[33mcommit 11c886988a146a933fafeea630cdb4cf4afb8051[m
+Author: James Ward <james@jamesward.org>
+Date:   Fri Nov 9 23:03:53 2012 -0700
+
+    overcome dep error
+
+[33mcommit 85fd1df893299c7fd0f8ccdce1a75ced1060e945[m
+Author: James Ward <james@jamesward.org>
+Date:   Fri Nov 9 23:01:35 2012 -0700
+
+    try new version
+
+[33mcommit ec9274470eb77bacaaaf2e44b4b5f3c27e8c7efd[m
+Author: James Ward <james@jamesward.org>
+Date:   Thu Jun 7 10:41:21 2012 -0600
+
+    add other demo source references
+
+[33mcommit 9d997bcd2d618602f8de45261c623e4137b87ba1[m
+Author: James Ward <james@jamesward.org>
+Date:   Tue Jun 5 08:17:08 2012 -0600
+
+    fix img urls
+
+[33mcommit 2029cb2d080e196e6036612813e7b05ede66a707[m
+Author: James Ward <james@jamesward.org>
+Date:   Tue Jun 5 08:15:31 2012 -0600
+
+    fix img urls
+
+[33mcommit 8c51d5fdbf8ba5562e8bb17091e9f02e0b5a6821[m
+Author: James Ward <james@jamesward.org>
+Date:   Tue Jun 5 08:11:00 2012 -0600
+
+    article draft complete
+
+[33mcommit 50114b30e349bbffb62a00ea4f316fef5d159426[m
+Author: James Ward <james@jamesward.org>
+Date:   Mon Jun 4 17:59:40 2012 -0600
+
+    move css assets to unprotected path
+
+[33mcommit 552ec861b0b12ed0373630951982cfd181e55e4a[m
+Author: James Ward <james@jamesward.org>
+Date:   Mon Jun 4 17:53:47 2012 -0600
+
+    fix css references
+
+[33mcommit 649114a5dade5462c2551f55b38403410b293ddf[m
+Author: James Ward <james@jamesward.org>
+Date:   Mon Jun 4 17:27:05 2012 -0600
+
+    updates for article
+
+[33mcommit 066e588d59007aef51c0ebb60e1a548cf1ba31ab[m
+Author: James Ward <james@jamesward.org>
+Date:   Thu May 17 11:17:12 2012 -0600
+
+    version bump the force.com REST api
+
+[33mcommit 0dc5917b3c768a5a96cc028788c3d462184e1eb8[m
+Author: James Ward <james@jamesward.org>
+Date:   Thu May 17 11:16:52 2012 -0600
+
+    updated instructions
+
+[33mcommit 8117c88daf9e11a05c3e7972a4b924a8ee615b12[m
+Author: James Ward <james@jamesward.org>
+Date:   Thu May 17 10:49:51 2012 -0600
+
+    remove unused repo
+
+[33mcommit ec887625ca211e586bf61370bea03b5e8be93fcf[m
+Author: James Ward <james@jamesward.org>
+Date:   Thu May 17 10:41:21 2012 -0600
+
+    add https support
+
+[33mcommit e442d8ad38d1c683fc21cffc5dcb2945077f4e6f[m
+Author: James Ward <james@jamesward.org>
+Date:   Wed May 16 10:53:46 2012 -0600
+
+    OAuth with SFDC works
+
+[33mcommit 0c11819b8c968ea2e46253c4c47581e5b6dfd1bd[m
+Author: James Ward <james@jamesward.org>
+Date:   Mon May 14 18:18:29 2012 -0600
+
+    fix webapp-runner dep
+
+[33mcommit bdf857205bb138464098e0b602369c77d41ffc5f[m
+Author: James Ward <james@jamesward.org>
+Date:   Mon May 14 18:12:51 2012 -0600
+
+    add heroku instructions
+
+[33mcommit ffb67fb1f2e1874cc1769542d60f28f6c918a3f3[m
+Author: James Ward <james@jamesward.org>
+Date:   Mon May 14 17:58:56 2012 -0600
+
+    switch to force.com
+
+[33mcommit dc5767d23e6e7cfb05797f81619709c190153adb[m
+Author: John Simone <john@heroku.com>
+Date:   Wed Mar 14 23:14:29 2012 -0700
+
+    correct CLI instructions and add readme
+
+[33mcommit f8b8d691b39f8ee908d76d50c6d9d7fc1d5129a5[m
+Author: John Simone <john@heroku.com>
+Date:   Wed Mar 14 13:04:04 2012 -0700
+
+    update wording and add devcenter link
+
+[33mcommit ca45adaeda3d7a358bbd901e16a6a1feee4cf237[m
+Author: John Simone <john@heroku.com>
+Date:   Tue Mar 13 16:54:46 2012 -0700
+
+    change delete links to form posts
+
+[33mcommit 6740dcd92677cdc1df31732e4bbd517074bb2bd2[m
+Author: John Simone <john@heroku.com>
+Date:   Tue Mar 13 13:24:43 2012 -0700
+
+    add eclipse version
+
+[33mcommit 628a145733b5e49a9b324992bfefe038f49be2b6[m
+Author: John Simone <john@heroku.com>
+Date:   Mon Mar 12 21:37:12 2012 -0700
+
+    instruction updates, formatting
+
+[33mcommit 44d034950a395b50100997f1ce5feb797b7b9b3b[m
+Merge: fbbb3aa 9ec13a7
+Author: John Simone <john@heroku.com>
+Date:   Mon Mar 12 14:52:50 2012 -0700
+
+    Merge pull request #3 from ryanbrainard/master
+    
+    Minor tweaks for Spring template (take 2)
+
+[33mcommit 9ec13a7774e56875e2fe58f237ad3618525d276f[m
+Author: Ryan Brainard <brainard@heroku.com>
+Date:   Fri Mar 9 14:47:52 2012 -0800
+
+    Replace tabs with 4 spaces
+
+[33mcommit 451245397646a1affd0701a56b708638ac9ec1b5[m
+Author: Ryan Brainard <brainard@heroku.com>
+Date:   Fri Mar 9 14:27:55 2012 -0800
+
+    Remove unnecessary assignment and cast
+
+[33mcommit 8bd32141409fe7974430a8ed4a8d43910c9dc0d2[m
+Author: Ryan Brainard <brainard@heroku.com>
+Date:   Fri Mar 9 14:27:22 2012 -0800
+
+    Remove line breaks from method signatures
+
+[33mcommit 7ff9e1aa3d34e6cd6fd8b95ac804aac8bb475a03[m
+Author: Ryan Brainard <brainard@heroku.com>
+Date:   Fri Mar 9 14:26:11 2012 -0800
+
+    Move up appname function to top of file so it can be used by document.write calls on page load
+
+[33mcommit d537e2dac420d67e05c39a9937f60f40b4d2a272[m
+Author: Ryan Brainard <brainard@heroku.com>
+Date:   Fri Mar 9 14:25:24 2012 -0800
+
+    Only display People heading if people exist
+
+[33mcommit fbbb3aaed3ae1e01fda8f55d63631725c769400c[m
+Author: John Simone <john@heroku.com>
+Date:   Thu Mar 8 18:51:16 2012 -0800
+
+    add instructions and tabs
+
+[33mcommit 98dcd5292e2a01723a6f2047c7465832ad137038[m
+Merge: de57a25 c30ddb6
+Author: John Simone <john@heroku.com>
+Date:   Thu Mar 8 15:57:23 2012 -0800
+
+    Merge pull request #1 from jamesward/master
+    
+    Lets hope it works this time
+
+[33mcommit c30ddb6b57d8ea590f28e4340e660f712d2cf603[m
+Author: James Ward <james@jamesward.org>
+Date:   Thu Mar 8 16:31:15 2012 -0700
+
+    configure mvc stuff for json support
+
+[33mcommit de57a25f25fc222fd58799a24aad04c0e0de061a[m
+Author: John Simone <john@heroku.com>
+Date:   Thu Mar 8 14:18:02 2012 -0800
+
+    Merge James updates in: JPA 2.0, use criteria query, updated URLs, webapp runner as a dependency
+
+[33mcommit 67157f4064895aa92cd381cb6aedc714147e38fe[m
+Author: John Simone <john@heroku.com>
+Date:   Wed Mar 7 23:26:08 2012 -0800
+
+    add index.jsp
+
+[33mcommit a316c10fae6259dc529543ee2e0d797360a62c72[m
+Author: John Simone <john@heroku.com>
+Date:   Wed Mar 7 23:02:23 2012 -0800
+
+    change url to people
+
+[33mcommit c09e5ee86086f9b555e2554544e33061590bcff6[m
+Author: John Simone <john@heroku.com>
+Date:   Wed Mar 7 22:58:19 2012 -0800
+
+    convert to JPA
+
+[33mcommit 19292853e978b234d121cec3149bbeaaab847897[m
+Author: John Simone <john@heroku.com>
+Date:   Wed Mar 7 19:03:01 2012 -0800
+
+    init
